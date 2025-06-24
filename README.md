@@ -1,6 +1,6 @@
 #  I'm Timon Soom
 
-🎓 I'm a second-year student at an Information Technology Secondary School (IMS)
+I'm a second-year student at an Information Technology Secondary School (IMS)
 
 ## Current Projects
 
