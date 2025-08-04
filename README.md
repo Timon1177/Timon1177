@@ -5,8 +5,8 @@ I'm a second-year student at an Information Technology Secondary School (IMS)
 ## Current Projects
 
 - **PetConnect** – A platform to connect pet owners and services
-- **MoneyMind** – A personal finance management tool designed for students
 - **First Smartphone App** – Currently working on my first mobile application project
+- **Website for Martin Soom** – A professional website for Swiss magician Martin Soom: www.martinsoom.ch
 
 ## About Me
 
