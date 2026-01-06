@@ -1,11 +1,10 @@
 #  I'm Timon Soom
 
-I'm a second-year student at an Information Technology Secondary School (IMS)
+I'm a third-year student at an Information Technology Secondary School (IMS)
 
 ## Current Projects
 
-- **PetConnect** – A platform to connect pet owners and services
-- **First Smartphone App** – Currently working on my first mobile application project
+- **GlobeGo** - A Smartphone App where you have to do task to collect Countries
 - **Website for Martin Soom** – A professional website for Swiss magician Martin Soom: www.martinsoom.ch
 
 ## About Me
